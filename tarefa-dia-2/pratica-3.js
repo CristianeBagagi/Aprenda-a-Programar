@@ -3,6 +3,7 @@ nome = "ABCDBDHEKSJLFYHAZDNJCLAAWJBHTZVEKVMIFKHFKCEHEKLUTBQLFYHAZDNJCLAAWJBHTZVE
 
 console.log(nome.length)
 
+
 if (tamanho >= 6110) {
     console.log(Perdão, Alan Turing. Vocês não conseguirão derrotar os nazistas. :'()  
 } else {    
