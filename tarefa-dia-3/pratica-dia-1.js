@@ -1,10 +1,14 @@
 
 
-let contador = 1
+let multiplicador = 10
+let n = 10
+let i = 1
 
-while (contador >=9) {  
-    console.log (contador)
-    contador = contador + 1
+while (i <=n) {  
+    let resultado = multiplicador * i
+    let tabuada = `${multiplicador} X ${i} = ${resultado}`
+    console.log (tabuada)
+    i++
 }
 
 
